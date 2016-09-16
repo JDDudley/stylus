@@ -17,6 +17,9 @@
   text-align: center;
   margin: 100px auto;
 }
+.middle-icons {
+  display: inline-block;
+}
 .footer {
   background: #333;
   padding: 50px;
