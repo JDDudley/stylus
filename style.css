@@ -1,0 +1,30 @@
+.top-bg {
+  color: white;
+  background-image: url('http://lewagon.github.io/stylus/images/background.jpg');
+  height: 60%;
+  background-size: cover;
+}
+.middle-section {
+  background: #469AE0;
+  text-align: center;
+  color: #fff;
+}
+.middle-items {
+  text-align: center;
+}
+.get-news {
+  background: #fff;
+  text-align: center;
+  margin: 100px auto;
+}
+.footer {
+  background: #333;
+  padding: 50px;
+  color: #fff;
+}
+.footer a {
+  color: #fff;
+}
+.footer a:hover {
+  color: orange;
+}
